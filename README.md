@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Thing I want to do in the end of this year
+### Thing I want to do until the end of this year
 
 - [ ] Make my own web blog beautiful 💮
 - [ ] Contribute fcitx5-unikey text suggestion 🖥️
