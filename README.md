@@ -2,7 +2,7 @@
 
 ### Thing I want to do until the end of this year
 
-- [ ] Make my own web blog beautiful 💮
+- [x] Make my own web blog beautiful 💮
 - [ ] Contribute continuwuity 🖥️
 - [ ] Write social game in Godot 🎮
 - [ ] Learn to draw 2d ✏️
