@@ -6,6 +6,6 @@
 - [ ] Learn piano again 🎹 and singing 🎤
 - [ ] Create my own vietnamese Rust input method :accessibility:
 - [ ] Write social game in Godot 🎮
-- [ ] Learn to draw 2d ✏️
+- [ ] Learn to draw 2d/3d (3d mainly :P) ✏️
 - [ ] Contribute to Nixpkgs ❄️ (Optional)
 - [ ] Contribute continuwuity 🖥️ (Optional)
