@@ -4,6 +4,6 @@
 
 - [x] Make my own web blog beautiful 💮
 - [ ] Learn piano again 🎹 and singing 🎤
-- [ ] Write social game in Godot 🎮
+- [x] Write social game in Godot 🎮
 - [ ] Learn to draw 2d ✏️
 - [ ] Contribute to Nixpkgs ❄️ (Optional)
