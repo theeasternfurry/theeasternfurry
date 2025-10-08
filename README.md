@@ -6,4 +6,4 @@
 - [ ] Learn piano again 🎹 and singing 🎤
 - [x] Write social game in Godot 🎮
 - [ ] Learn to draw 2d ✏️
-- [ ] Contribute to Nixpkgs ❄️ (Optional)
+- [x] Contribute to Nixpkgs ❄️ (Optional)
