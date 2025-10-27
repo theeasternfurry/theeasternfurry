@@ -8,4 +8,4 @@
 - [ ] Learn to draw 2d ✏️
 - [ ] Learn piano 🎹 and singing 🎤
 - [ ] Get a new job (because I need 💰, 😿)
-- [ ] Create lotus-ime (Wayland input method software 💻)
+- [ ] Contribute to fcitx5-unikey
